@@ -1,3 +1,6 @@
 first
+<<<<<<< HEAD
 second
 third
+=======
+>>>>>>> parent of 2b9744a (second commit)
